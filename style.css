@@ -1,0 +1,183 @@
+body{
+    margin: 0;
+    padding: 0;
+    
+}
+
+.condainer1{
+    background-image: url(img/image1\ copy.png);
+    height: 100vh;
+    background-position: center;
+    background-size: cover;
+    
+    background-attachment: fixed;
+
+    width: 100%;
+
+
+
+
+}
+.condainer1 h1{
+     position: relative;
+     top: 30%;
+
+    width: 100%;
+    text-align: center;
+    padding: 5%;
+    font-size: 30px;
+    font-family: 'Nunito Sans', sans-serif;
+    
+}
+.style1{
+    background-color: rgb(46, 46, 47);
+     position: relative;
+     left: 35%;
+     top: 30%;
+    
+    width:35%;
+    right: 30%;
+    text-align: center;
+    color: aliceblue;
+    
+    
+
+
+}
+.container2{
+    background-color: rgb(255, 255, 255);
+    color: rgb(93, 94, 96);
+    padding: 1%;
+    font-family: 'Nunito Sans', sans-serif;
+
+    
+    
+
+}
+.style2 h2{
+    text-align: center;
+}
+.condainer3{
+    background-image:url(img/image2.png);
+    height: 100vh;
+    background-position: center;
+    background-size: cover; 
+    background-repeat:repeat ; 
+    width: 100%;
+    background-attachment: fixed;
+     
+}
+
+.condainer3 h3{
+    position: relative; 
+    top: 100%;
+    }.style3{
+        background-color: rgb(55, 55, 55);
+        color: rgb(255, 255, 255);
+        position: relative; 
+        left: 35%;
+       top: 40%;
+       width:30%;
+       right: 40%;
+       padding:1%;
+       text-align: center;
+    font-family: 'Nunito Sans', sans-serif;
+    
+       
+    }
+    .container4{
+        background-color: rgb(35, 35, 37);
+        color: aliceblue;
+        padding:1%;
+        
+    font-family: 'Nunito Sans', sans-serif;
+    
+    }
+    .style4 h4{
+        text-align: center;
+    }
+
+        
+ 
+
+    
+    
+    
+    .condainer5{
+        background-image:url(img/image3.png);
+        height: 100vh;
+        background-position: center;
+        background-size: cover;
+        background-repeat: no-repeat;
+        width: 100%;
+        background-attachment: fixed;
+    
+    
+    }
+
+    
+    .style5 h5{
+        position: relative;
+        background-color: rgb(67, 67, 68);
+        color: rgb(255, 255, 255);
+        position: absolute;
+        left: 35%;
+        top: 300%;
+        width: 35%;
+        text-align: center;
+        color: aliceblue;
+        padding: 2%;
+        font: size 25%;
+        
+    font-family: 'Nunito Sans', sans-serif;
+    
+        
+    }
+    .style6 h5{
+        text-align: center;
+    }
+    .style6 {
+        background-color: rgb(35, 37, 38);
+        color: aliceblue;
+        padding: 1%;
+        
+    font-family: 'Nunito Sans', sans-serif;
+    
+    }
+    .condainer7{
+        background-image: url(img/image1\ copy.png);
+        height: 100vh;
+        background-position: center;
+        background-size: cover;
+        background-attachment: fixed;
+    
+        width: 100%;
+        padding: 1%;
+
+    }
+
+
+
+    .condainer7 h6{
+        position: relative; 
+        top: 100%;
+        }
+        .style7{
+            background-color: rgb(55, 55, 55);
+            color: rgb(255, 255, 255);
+            position: relative; 
+            left: 35%;
+           top: 40%;
+           width:30%;
+           right: 40%;
+           padding:1%;
+           text-align: center;
+           font-size: 30px;
+        font-family: 'Nunito Sans', sans-serif;
+    }
+
+        
+           
+    
+
+
